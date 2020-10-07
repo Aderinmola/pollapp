@@ -1,0 +1,8 @@
+li a {
+    color: goldenrod;
+}
+
+body {
+    background: white url("images/pexels-sharon-mccutcheon-1191710.jpg") no-repeat;
+    background-size: cover;
+}
